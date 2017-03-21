@@ -1,0 +1,3 @@
+- normal matrix
+-coordenadas do mundo 
+-equaçao parametrica do circulo pra saber se colidiu
